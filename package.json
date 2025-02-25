@@ -1,0 +1,12 @@
+{
+  "name": "halal-checker",
+  "version": "1.0.0",
+  "main": "app.jsx",
+  "dependencies": {
+    "react": "^18.0.0",
+    "framer-motion": "^10.0.0"
+  },
+  "scripts": {
+    "start": "vite"
+  }
+}
